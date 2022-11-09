@@ -34,7 +34,7 @@ extensions = [
     "subprojecttoctree"
 ]
 is_subproject=True
-readthedocs_urls = "https://subprojecttoctree-example-master.readthedocs.io/" 
+readthedocs_url = "https://subprojecttoctree-example-master.readthedocs.io/" 
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
